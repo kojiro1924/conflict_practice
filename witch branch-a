@@ -1,0 +1,20 @@
+[33mcommit badf9cffdb612af8db7e86f9ef7b1c166f2377d5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: b533c38 7327f1c
+Author: kojiro1924 <147127618+kojiro1924@users.noreply.github.com>
+Date:   Fri Jul 31 12:13:04 2026 +0900
+
+    Merge pull request #2 from kojiro1924/branch-b
+    
+    update the favorite food on branch-b
+
+[33mcommit 7327f1c9a2800928080ad7b9fd32f9bfbe5c3610[m[33m ([m[1;31morigin/branch-b[m[33m, [m[1;32mbranch-b[m[33m)[m
+Author: kojiro1924 <kawamurakojiro@icloud.com>
+Date:   Fri Jul 31 12:12:34 2026 +0900
+
+    update the favorite food on branch-b
+
+[33mcommit b533c380af7faa5c4ca615090b5e8989ad22515f[m
+Author: kojiro1924 <kawamurakojiro@icloud.com>
+Date:   Fri Jul 31 12:10:00 2026 +0900
+
+    initial commit
